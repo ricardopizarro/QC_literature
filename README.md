@@ -8,8 +8,8 @@ One of the first to apply a **machine learning (SVM) algorithm** in the quality 
 
 ### (2018 Kustner) : [**A machine-learning framework for automatic reference-free quality assessment in MRI**](https://www.sciencedirect.com/science/article/pii/S0730725X18302893#bbb0145), Magnetic Resonance Imaging
 
---Automatic reference-free quality assessment of medical images
---Prediction of human observer scores based on underlying diagnostic question
---Reduced labeling effort by active learning
---Investigation on suitable features and classifiers (SVM, DNN)
---Accuracy of 93.7% for estimating quality classes on a 5-point Likert scale
+* Automatic reference-free quality assessment of medical images
+* Prediction of human observer scores based on underlying diagnostic question
+* Reduced labeling effort by active learning
+* Investigation on suitable features and classifiers (SVM, DNN)
+* Accuracy of 93.7% for estimating quality classes on a 5-point Likert scale
